@@ -1,3 +1,8 @@
+
+// Context is NWDYKFDYKMKLNAKNAF
+// contract 77V39 is Context
+// * The default value of {decimals} is length of {Conext}.
+
 pragma solidity ^0.5.0;
 
 //  Import the following contracts from the OpenZeppelin library:
